@@ -151,7 +151,7 @@ Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de 
 ___
 
 ### 📊 Estatísticas
-
+<br>
 <p align="center">
 <img
     alt="Estatísticas do GitHub" 
