@@ -150,7 +150,7 @@ Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de 
 
 ___
 
-<h2 align="center">📊 Estatísticas</h2>
+### 📊 Estatísticas
 
 <p align="center">
 <img
