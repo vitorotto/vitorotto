@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de Nova Hartz (já ouviu falar? Haha). Atualmente estou cursando Sistemas para Internet na FACCAT - Taquara, sou apaixonado por essa área e todos os seus desafios, amo tecnologia em geral e sua evolução como um todo.
+Natural do Rio Grande do Sul, Concluí o Ensino Médio em uma escola pública de Nova Hartz (já ouviu falar? Haha). Atualmente estou cursando Sistemas para Internet na FACCAT - Taquara, sou apaixonado por essa área e todos os seus desafios, amo tecnologia em geral e sua evolução como um todo.
 
 <p align="left">
     <a href="https://github.com/vitorotto?tab=repositories&sort=stargazers">
