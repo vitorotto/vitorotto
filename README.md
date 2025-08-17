@@ -136,6 +136,7 @@ Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="Python" 
@@ -143,7 +144,7 @@ Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+/> -->
 
 <br/>
 <br/>
