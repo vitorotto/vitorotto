@@ -31,6 +31,7 @@ Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br>
 <p>
 <img 
     align="left" 
@@ -145,7 +146,6 @@ Natural do Rio Grande do Sul, Concluí o Ensino Médio em um escola pública de 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /> -->
 
-<br/>
 <br/>
 
 ___
